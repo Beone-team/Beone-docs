@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/License-AGPLv3-green?logoColor=63%2C%20185%2C%2017&label=license&labelColor=63%2C%20185%2C%2017&color=63%2C%20185%2C%2017">
-  <img src="https://img.shields.io/badge/Content-software hardware-green?logoColor=63%2C%20185%2C%2017&label=license&labelColor=63%2C%20185%2C%2017&color=63%2C%20185%2C%2017">
+  <img src="https://img.shields.io/badge/Content-software hardware-green?logoColor=63%2C%20185%2C%2017&label=Content&labelColor=63%2C%20185%2C%2017&color=63%2C%20185%2C%2017">
 </div>
 
 ## 文档说明
