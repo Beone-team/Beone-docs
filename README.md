@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./res/icon.webp" height="120">
+  <img src="./res/icon.png" height="120">
   <h1>Beone-docs</h1>
 </div>
 <br/>
