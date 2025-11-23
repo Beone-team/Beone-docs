@@ -12,6 +12,10 @@
 ## 文档说明
 - <a href="./hardware">硬件文档</a>
 - <a href="./software">软件文档</a>
+- <a href="./software">结构文档</a>
+- <a href="./tool">工具</a>
+- <a href="./other">其他</a>
+
 
 ## 许可证
 Beone-docs 遵循 [GNU Affero 通用公共许可证第三版](./LICENSE)（AGPLv3）进行授权。
